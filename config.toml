@@ -15,6 +15,7 @@ theme = "hyde-hyde"
 #paginate = 5
 
 publishDir = "docs"
+canonifyurls = true
 
 ## Site Settings
 [params]
