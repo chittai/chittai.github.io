@@ -2,7 +2,7 @@
 baseurl = "https://chittai.github.io/"
 languageCode = "ja"
 
-title = "Title"
+title = "FUDA RYOHEI"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -20,9 +20,9 @@ canonifyurls = true
 ## Site Settings
 [params]
     author = "Author"
-    title = "Title"
+    title = "FUDA RYOHEI"
     # description = "..."
-    authorimage = "/img/hugo.png"
+    authorimage = "/img/mypic/facebook.jpg"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
