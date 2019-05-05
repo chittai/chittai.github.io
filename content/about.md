@@ -104,10 +104,12 @@ DBaaS(Database as a Servie)サービスを開始するため、OracleExadataの�
 
 ## Achievement
 ---
-### LookingGlassハッカソン (`2019/04`)
+### LookingGlassハッカソン 
+- `2019/04`
 - 結果：**たしてん賞**
 
-### NRIハッカソン(`2015/03`)
+### NRIハッカソン
+- `2015/03`
 - 結果：**特別賞**
 
 
