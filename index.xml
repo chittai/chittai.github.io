@@ -6,7 +6,7 @@
     <description>Recent content on FUDA RYOHEI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chittai.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +30,16 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>About FUDA RYOHEI</title>
+      <link>https://chittai.github.io/about/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chittai.github.io/about/</guid>
+      <description>Biography  布田　遼平(ふだ　りょうへい) 1988.12.21 Infrastructure Engineer  野村総合研究所に所属。インフラエンジニアとして社内クラウド基盤を管理。大学ではマルチキャストの研究に従事。 現在VRに興味があり、OculusRift/Goを使用したコンテンツの開発を独自でしている。
+SkilSet  Hypervisor     Hypervisor Knowldge Level     VMware ESXi ★★★★★   OracleVM ★★★★     Storage     Vender Knowldge Level     NetApp(ONTAP) ★★★★★   EMC ★★★     Network     Vender Knowldge Level     Cisco ★★★     Programming Language     ProgrammingLanguage Knowldge Level     C# ★★★   Go ★   Ruby ★★★     Framework     Framework Knowldge Level     Ruby on Rails ★★★   jQuery ★★★     Cloud Platform     Platform Knowldge Level     GCP ★★   AWS ★   OCI ★★★     XR Platform     Platform Knowldge Level     Oculus Rift/Go ★★★     Infrastructure Tool     Tool Knowldge Level     Ansible ★★   Terraform ★★   Jenkins ★★     RDBMS(DBA)     Tool Knowldge Level     Oracle ★★★★    Education  東京理科大学理工学研究科 情報科学専攻 March,2012  Certified  Oracle Master Silver  Resume 野村総合研究所　  2012/04 ~ 現在</description>
     </item>
     
     <item>
@@ -57,17 +67,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       
       <guid>https://chittai.github.io/portfolio/laramod/</guid>
       <description>LaraMod is another modularisation effort to systematically organising a Laravel based project. The idea stems from my struggle to structure a Laravel-based project so that I can work effectively on individual modules whilst keeping Laravel codebase intact as much as possible and also keeping the project&amp;rsquo;s codebase separate from Laravel.</description>
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
-      <link>https://chittai.github.io/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://chittai.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
     </item>
     
     <item>
