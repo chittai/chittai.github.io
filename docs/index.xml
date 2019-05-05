@@ -43,12 +43,14 @@ SkilSet  Hypervisor     Hypervisor Knowldge Level     VMware ESXi ★★★★�
     </item>
     
     <item>
-      <title>DERA</title>
-      <link>https://chittai.github.io/portfolio/dera/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      <title>VR美術館</title>
+      <link>https://chittai.github.io/portfolio/vr_museum/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chittai.github.io/portfolio/dera/</guid>
-      <description>This is a Java reference implementation of dynamic event-driven actors runtime aiming at providing adequate abstraction levels and mechanisms for modelling and developing (distributed) event-based systems. DERA leverages the intrinsic loose coupling of event-driven communication styles to support various kinds of run-time evolution and adaptation (i.e., enabling run-time flexibility) while minimizing the non-deterministic nature of traditional event-based applications (i.e., supporting formal analysis).</description>
+      <guid>https://chittai.github.io/portfolio/vr_museum/</guid>
+      <description>Unicessingで作成した作品を、美術館のアセット上に配置してます。近くによると音楽が聞こえてくるので、 その作品にあった音楽的な演出が可能です。(手前の作品は、近づくと海っぽい音楽が流れてきます。)
+blog記事
+Unity  / Unicessing</description>
     </item>
     
     <item>
@@ -61,12 +63,14 @@ SkilSet  Hypervisor     Hypervisor Knowldge Level     VMware ESXi ★★★★�
     </item>
     
     <item>
-      <title>LaraMod</title>
-      <link>https://chittai.github.io/portfolio/laramod/</link>
-      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Draw a Cat</title>
+      <link>https://chittai.github.io/portfolio/drawcat/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://chittai.github.io/portfolio/laramod/</guid>
-      <description>LaraMod is another modularisation effort to systematically organising a Laravel based project. The idea stems from my struggle to structure a Laravel-based project so that I can work effectively on individual modules whilst keeping Laravel codebase intact as much as possible and also keeping the project&amp;rsquo;s codebase separate from Laravel.</description>
+      <guid>https://chittai.github.io/portfolio/drawcat/</guid>
+      <description>猫の似顔絵を書いて、JUDGEボタンを押すとその絵に点数が付きます。この点数はCloudVisioAPIで書いた絵を判定し、その中で”Cat”の画像認識のスコアを取り出しています。 その点数を登録することでランキングに点数を登録することができますし、書いた絵を保存→呼び出しといったこともできるようにしています。 今はAPIキーの有効期限が切れてて使用できません。。
+github / blog記事
+javascript  / jQuery  / Ruby  / Ruby on Rails  / CSS  / HTML  /</description>
     </item>
     
     <item>
@@ -91,6 +95,17 @@ More complete instructions are available at installing hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>facility_searcher</title>
+      <link>https://chittai.github.io/portfolio/facilitysearcher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chittai.github.io/portfolio/facilitysearcher/</guid>
+      <description>住所の検索に合わせて近くにあって欲しい施設を3つ選択(&amp;quot;病院&amp;quot;、&amp;quot;コンビニ&amp;quot;など種類で選択)します。 検索した住所から選択した施設までの距離をもとに点数を計算します(選択した施設が近くにあるほど高得点)。 ユースケースとしては、引越し先の周辺の施設を調べたい時に住所と一緒に施設までの距離も検索して、 引越し先住所を評価する時に使用したりするといいと思います。 今はAPIキーの有効期限が切れてて使用できません。。
+github / blog記事
+Ruby  / Ruby on Rails  / CSS  / HTML  /</description>
     </item>
     
   </channel>
