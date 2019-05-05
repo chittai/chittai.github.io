@@ -24,13 +24,13 @@
   </url>
   
   <url>
-    <loc>https://chittai.github.io/portfolio/dera/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <loc>https://chittai.github.io/portfolio/</loc>
+    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chittai.github.io/portfolio/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <loc>https://chittai.github.io/portfolio/vr_museum/</loc>
+    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -39,8 +39,8 @@
   </url>
   
   <url>
-    <loc>https://chittai.github.io/portfolio/laramod/</loc>
-    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
+    <loc>https://chittai.github.io/portfolio/drawcat/</loc>
+    <lastmod>2017-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -153,6 +153,10 @@
     <loc>https://chittai.github.io/tags/migration/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chittai.github.io/portfolio/facilitysearcher/</loc>
   </url>
   
 </urlset>
