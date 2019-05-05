@@ -49,6 +49,12 @@ date = "2019-05-05"
 | Ruby on Rails |★★★|
 | jQuery |★★★|
 
+- Game Engine
+
+| GameEngine | Knowldge Level |
+|---|---|
+| Unity |★★★|
+
 - Cloud Platform
 
 | Platform | Knowldge Level |
@@ -62,6 +68,13 @@ date = "2019-05-05"
 | Platform | Knowldge Level |
 |---|---|
 | Oculus Rift/Go |★★★|
+
+- Version Control
+
+| Platform | Knowldge Level |
+|---|---|
+| Git |★★★★|
+| SVN |★★|
 
 - Infrastructure Tool
 
