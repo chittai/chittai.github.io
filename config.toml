@@ -1,4 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://chittai.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My New Chittai Site"
 theme = "hyde-hyde"
+canonifyurls = true
+publishDir = "docs"
+hasCJKLanguage = true
+
