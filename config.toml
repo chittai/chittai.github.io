@@ -1,6 +1,6 @@
 ## Basic Configuration
 baseurl = "https://chittai.github.io/"
-languageCode = "en"
+languageCode = "ja"
 
 title = "Title"
 theme = "hyde-hyde"
@@ -46,16 +46,17 @@ canonifyurls = true
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
-    instagram = "<username>"
-    xing = "<username>"
-    linkedin = "<username>"
-    twitter = "<username>"
-    facebook = "<username>"
-    stackoverflow = "<username>"
-    telegram = "<username>"
-    email = "your-email@example.com"
+    github = "chittai"
+    instagram = "chittai"
+    #xing = "<username>"
+    linkedin = "RyoheiFuda"
+    twitter = "chittai"
+    facebook = "RyoheiFuda"
+    #stackoverflow = "<username>"
+    #telegram = "<username>"
+    email = "chittai1221@gmail.com"
     # gravatar = "your-email@example.com"
+    blog = "c-taquna.hatenablog.com"
 
 ## Main Menu
 [[menu.main]]

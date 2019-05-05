@@ -13,7 +13,7 @@
 	{{ end }}
 	{{ $gitlab_domain := "gitlab.com" }}
 	{{ with .Site.Params.social.custom_gitlab_domain }}
-		{{ $gitlab_domain = . }}
+	{{ $gitlab_domain = . }}
 	{{ end }}
 	{{ with .Site.Params.social.gitlab }}
 	<a href="https://{{ $gitlab_domain }}/{{.}}" rel="me"><i class="fab fa-gitlab fa-lg" aria-hidden="true"></i></a>
@@ -25,7 +25,8 @@
 	<a href="https://linkedin.com/in/{{.}}" rel="me"><i class="fab fa-linkedin fa-lg" aria-hidden="true"></i></a>
 	{{ end }}
 	{{ with .Site.Params.social.stackoverflow }}
-	<a href="https://stackoverflow.com/users/{{.}}" rel="me"><i class="fab fa-stack-overflow fa-lg" aria-hidden="true"></i></a>
+	<a href="https://stackoverflow.com/users/{{.}}" rel="me"><i class="fab fa-stack-overflow fa-lg"
+			aria-hidden="true"></i></a>
 	{{ end }}
 	{{ with .Site.Params.social.medium}}
 	<a href="https://medium.com/@{{.}}" rel="me"><i class="fab fa-medium fa-lg" aria-hidden="true"></i></a>
@@ -45,4 +46,10 @@
 	{{ with .Site.Params.social.email }}
 	<a href="mailto:{{.}}" rel="me"><i class="fas fa-at fa-lg" aria-hidden="true"></i></a>
 	{{ end }}
+
+	<!-- ブログ用に追加 -->
+	{{ with .Site.Params.social.blog }}
+	<a href="http://{{.}}" rel="me"><i class="fas fa-link fa-lg" aria-hidden="true"></i></a>
+	{{ end }}
+
 </section>
