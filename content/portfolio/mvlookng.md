@@ -1,6 +1,6 @@
 ---
 title: "MV in LookingGlass"
-description: "簡易的なミュージック作成ツール"
+description: "簡易的なミュージックビデオ作成ツール"
 link: 
 screenshot: pic/mvl.png
 date: '2019-03-15'
