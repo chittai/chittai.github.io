@@ -6,30 +6,19 @@
     <description>Recent content on FUDA RYOHEI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chittai.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://chittai.github.io/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>This Site</title>
+      <link>https://chittai.github.io/posts/this-site/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://chittai.github.io/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://chittai.github.io/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://chittai.github.io/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>https://chittai.github.io/posts/this-site/</guid>
+      <description> Introduction このサイトの説明です。
+ Posts(今は使用していません。) Portfolio(自分が作成した作品一覧です) About(職歴など自己紹介を載せています)  </description>
     </item>
     
     <item>
@@ -48,8 +37,7 @@ SkilSet  Hypervisor     Hypervisor Knowldge Level     VMware ESXi ★★★★�
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://chittai.github.io/portfolio/hanasakalooking/</guid>
-      <description>LookingGlassハッカソンで作成したアプリケーションです。灰にみたてたキューブを木にむかって放り投げると 空から灰が降ってきます。木にあたると花が咲きます。LookingGlassの ◁ ▷ ボタンを押すと季節を変えることができます。 他にも夏なら花火を打ち上げたり、春なら桜の花びらが舞い落ちてきたりと季節によったアクションも用意しています。
-github / blog記事
+      <description>LookingGlassハッカソンで作成したアプリケーションです。灰にみたてたキューブを木にむかって放り投げると 空から灰が降ってきます。木にあたると花が咲きます。LookingGlassの ◁ ▷ ボタンを押すと季節を変えることができます。 他にも夏なら花火を打ち上げたり、春なら桜の花びらが舞い落ちてきたりと季節によったアクションも用意しています。 LeapMotionを使用したシステム部分と、季節の切り替えや季節ごとのアクションの実装を担当しました。
 Unity  / C#  / LookingGlass</description>
     </item>
     
@@ -104,30 +92,6 @@ Unity  / Oculus Rift  / Unicessing</description>
       <description>猫の似顔絵を書いて、JUDGEボタンを押すとその絵に点数が付きます。この点数はCloudVisioAPIで書いた絵を判定し、その中で”Cat”の画像認識のスコアを取り出しています。 その点数を登録することでランキングに点数を登録することができますし、書いた絵を保存→呼び出しといったこともできるようにしています。 今はAPIキーの有効期限が切れてて使用できません。。
 github / blog記事
 javascript  / jQuery  / Ruby  / Ruby on Rails  / CSS  / HTML  /</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://chittai.github.io/posts/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://chittai.github.io/posts/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://chittai.github.io/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://chittai.github.io/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
     </item>
     
     <item>
