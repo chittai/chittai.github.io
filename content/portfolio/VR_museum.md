@@ -1,8 +1,8 @@
 ---
 title: "VR美術館"
 description: "3DオブジェクトをVRで見る"
-link: https://hawk-i.herokuapp.com/
 screenshot: pic/vrmuseum.png
+link: http://c-taquna.hatenablog.com/entry/2018/05/04/123811
 date: '2018-05-04'
 layout: 'portfolio'
 ---
@@ -14,6 +14,7 @@ Unicessingで作成した作品を、美術館のアセット上に配置して�
 [blog記事](http://c-taquna.hatenablog.com/entry/2018/05/04/123811) 
 
 <span style="color: red; "> Unity </span> /
+<span style="color: red; "> Oculus Rift </span> /
 <span style="color: red; "> Unicessing </span>
 
 ---
