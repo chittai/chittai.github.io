@@ -6,10 +6,43 @@
     <description>Recent content in Projects on FUDA RYOHEI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chittai.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>花咲Looking</title>
+      <link>https://chittai.github.io/portfolio/hanasakalooking/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chittai.github.io/portfolio/hanasakalooking/</guid>
+      <description>LookingGlassハッカソンで作成したアプリケーションです。灰にみたてたキューブを木にむかって放り投げると 空から灰が降ってきます。木にあたると花が咲きます。LookingGlassの ◁ ▷ ボタンを押すと季節を変えることができます。 他にも夏なら花火を打ち上げたり、春なら桜の花びらが舞い落ちてきたりと季節によったアクションも用意しています。
+github / blog記事
+Unity  / C#  / LookingGlass</description>
+    </item>
+    
+    <item>
+      <title>MV in LookingGlass</title>
+      <link>https://chittai.github.io/portfolio/mvlookng/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chittai.github.io/portfolio/mvlookng/</guid>
+      <description>事前に表示時間、カメラワーク、歌詞を入力しておけば、歌詞やカメラワークが自動で切り替わるようになります。 キャラクターはPCのカメラで自分の顔を認識し、VTuberシステムのように表情をトレースしてくれます。
+github
+Unity  / C#  / LookingGlass</description>
+    </item>
+    
+    <item>
+      <title>Protect the Princess</title>
+      <link>https://chittai.github.io/portfolio/protecttheprincess/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chittai.github.io/portfolio/protecttheprincess/</guid>
+      <description>敵からくる攻撃を切り落とし、後ろにいるプリンセスに攻撃が当たらないようにします。後ろの プリンセスはランダムで左右に走ります。攻撃があたったら、ライフポイントが減っていくので、 これが0にならないように制限時間内守ってください。事前にゲーム内に配置する必要がありますが、 キャラクターの選択も可能にしています。
+github / blog記事
+Unity  / C#  / Oculus Go</description>
+    </item>
     
     <item>
       <title>VR美術館</title>
@@ -19,7 +52,7 @@
       <guid>https://chittai.github.io/portfolio/vr_museum/</guid>
       <description>Unicessingで作成した作品を、美術館のアセット上に配置してます。近くによると音楽が聞こえてくるので、 その作品にあった音楽的な演出が可能です。(手前の作品は、近づくと海っぽい音楽が流れてきます。)
 blog記事
-Unity  / Unicessing</description>
+Unity  / Oculus Rift  / Unicessing</description>
     </item>
     
     <item>
