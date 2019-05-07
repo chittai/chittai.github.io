@@ -12,7 +12,7 @@ date = "2019-05-05"
 野村総合研究所に所属。インフラエンジニアとして社内クラウド基盤を管理。大学ではマルチキャストの研究に従事。
 現在VRに興味があり、OculusRift/Goを使用したコンテンツの開発を独自でしている。
 
-## SkilSet
+## SkillSet
 ---
 - Hypervisor
 
@@ -80,15 +80,15 @@ date = "2019-05-05"
 
 | Tool | Knowldge Level |
 |---|---|
-| Ansible |★★|
+| Ansible |★★★|
 | Terraform |★★|
 | Jenkins |★★|
 
 - RDBMS(DBA)
 
-| Tool | Knowldge Level |
+| Product | Knowldge Level |
 |---|---|
-| Oracle |★★★★|
+| Oracle Database |★★★★|
 
 
 
