@@ -39,8 +39,8 @@ date = "2019-05-05"
 | ProgrammingLanguage | Knowldge Level |
 |---|---|
 | C# |★★★|
-| Go |★|
-| Ruby |★★★|
+| Go |★★|
+| Ruby |★★|
 
 - Framework
 
@@ -117,6 +117,10 @@ DBaaS(Database as a Servie)サービスを開始するため、OracleExadataの�
 
 ## Achievement
 ---
+
+## AtCoder Rating
+59
+
 ### LookingGlassハッカソン 
 - `2019/04`
 - 結果：**たしてん賞**
