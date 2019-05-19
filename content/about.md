@@ -83,6 +83,7 @@ date = "2019-05-05"
 | Ansible |★★★|
 | Terraform |★★|
 | Jenkins |★★|
+| Selenium WebDriver|★★★|
 
 - RDBMS(DBA)
 
