@@ -61,7 +61,7 @@ date = "2019-05-05"
 |---|---|
 | GCP |★★|
 | AWS |★|
-| OCI |★★★|
+| OCI |★★★★|
 
 - XR Platform
 
@@ -82,14 +82,14 @@ date = "2019-05-05"
 |---|---|
 | Ansible |★★★|
 | Terraform |★★|
-| Jenkins |★★|
+| Jenkins |★★★|
 | Selenium WebDriver|★★★|
 
 - RDBMS(DBA)
 
 | Product | Knowldge Level |
 |---|---|
-| Oracle Database |★★★★|
+| Oracle Database DBA |★★★★|
 
 
 
@@ -101,6 +101,7 @@ date = "2019-05-05"
 ## Certified
 ---
 - Oracle Master Silver 
+- Oracle Cloud Infrastructure 2018 Architect Associate
 
 ## Resume
 ---
@@ -120,7 +121,7 @@ DBaaS(Database as a Servie)サービスを開始するため、OracleExadataの�
 ---
 
 ## AtCoder Rating
-59
+112
 
 ### LookingGlassハッカソン 
 - `2019/04`
