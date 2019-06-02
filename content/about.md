@@ -121,7 +121,7 @@ DBaaS(Database as a Servie)サービスを開始するため、OracleExadataの�
 ---
 
 ## AtCoder Rating
-112
+165
 
 ### LookingGlassハッカソン 
 - `2019/04`
