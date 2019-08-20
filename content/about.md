@@ -59,7 +59,7 @@ date = "2019-05-05"
 
 | Platform | Knowldge Level |
 |---|---|
-| GCP |★★|
+| GCP |★★★|
 | AWS |★|
 | OCI |★★★★|
 
@@ -101,7 +101,8 @@ date = "2019-05-05"
 ## Certified
 ---
 - Oracle Master Silver 
-- Oracle Cloud Infrastructure 2018 Architect Associate
+- `2019/5` Oracle Cloud Infrastructure 2018 Architect Associate
+- `2019/8`Google Cloud Platform Associate Cloud Engineer
 
 ## Resume
 ---
