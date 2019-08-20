@@ -100,9 +100,9 @@ date = "2019-05-05"
 
 ## Certified
 ---
-- Oracle Master Silver 
-- `2019/5` Oracle Cloud Infrastructure 2018 Architect Associate
 - `2019/8`Google Cloud Platform Associate Cloud Engineer
+- `2019/5` Oracle Cloud Infrastructure 2018 Architect Associate
+- Oracle Master Silver 
 
 ## Resume
 ---
