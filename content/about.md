@@ -1,6 +1,6 @@
 +++
 title = "About FUDA RYOHEI"
-date = "2019-05-05"
+date = "2019-11-08"
 +++
 
 # Biography
@@ -25,7 +25,7 @@ date = "2019-05-05"
 
 | Vender | Knowldge Level |
 |---|---|
-| NetApp(ONTAP) |★★★★★|
+| NetApp |★★★★★|
 | EMC | ★★★ |
 
 - Network
@@ -100,7 +100,7 @@ date = "2019-05-05"
 
 ## Certified
 ---
-- `2019/8`Google Cloud Platform Associate Cloud Engineer
+- `2019/8` Google Cloud Platform Associate Cloud Engineer
 - `2019/5` Oracle Cloud Infrastructure 2018 Architect Associate
 - Oracle Master Silver 
 
@@ -122,7 +122,7 @@ DBaaS(Database as a Servie)サービスを開始するため、OracleExadataの�
 ---
 
 ## AtCoder Rating
-165
+chittai - 467(茶)
 
 ### LookingGlassハッカソン 
 - `2019/04`
