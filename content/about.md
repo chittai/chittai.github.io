@@ -1,6 +1,6 @@
 +++
 title = "About FUDA RYOHEI"
-date = "2019-11-08"
+date = "2020-04-30"
 +++
 
 # Biography
@@ -10,52 +10,53 @@ date = "2019-11-08"
 - Infrastructure Engineer
 
 野村総合研究所に所属。インフラエンジニアとして社内クラウド基盤を管理。大学ではマルチキャストの研究に従事。
-現在VRに興味があり、OculusRift/Goを使用したコンテンツの開発を独自でしている。
+OculusRift/Goを使用したVRコンテンツの開発を独自で実施。趣味は競技プログラミング。データ分析も勉強中。
 
 ## SkillSet
 ---
-- Hypervisor
+### Hypervisor
 
-| Hypervisor | Knowldge Level |
+| Product | Knowldge Level |
 |---|---|
 | VMware ESXi |★★★★★|
 | OracleVM | ★★★★ |
 
-- Storage
+### Storage
 
-| Vender | Knowldge Level |
+| Product | Knowldge Level |
 |---|---|
-| NetApp |★★★★★|
-| EMC | ★★★ |
+| NetApp ONTAP |★★★★★|
+| EMC   | ★★ |
 
-- Network
+### Network
 
-| Vender | Knowldge Level |
+| Product | Knowldge Level |
 |---|---|
-| Cisco |★★★|
+| Cisco Nexus Switch(L2/L3) |★★★|
 
-- Programming Language
+### Programming Language
 
 | ProgrammingLanguage | Knowldge Level |
 |---|---|
 | C# |★★★|
 | Go |★★|
 | Ruby |★★|
+| JavaScript |★★|
 
-- Framework
+### Framework
 
-| Framework | Knowldge Level |
+| Product | Knowldge Level |
 |---|---|
 | Ruby on Rails |★★★|
 | jQuery |★★★|
 
-- Game Engine
+### Game Engine
 
-| GameEngine | Knowldge Level |
+| Product | Knowldge Level |
 |---|---|
 | Unity |★★★|
 
-- Cloud Platform
+### Cloud Platform
 
 | Platform | Knowldge Level |
 |---|---|
@@ -63,39 +64,37 @@ date = "2019-11-08"
 | AWS |★|
 | OCI |★★★★|
 
-- XR Platform
+### XR 
 
 | Platform | Knowldge Level |
 |---|---|
 | Oculus Rift/Go |★★★|
 
-- Version Control
+### Version Control
 
 | Platform | Knowldge Level |
 |---|---|
-| Git |★★★★|
+| Git |★★★|
 | SVN |★★|
 
-- Infrastructure Tool
+### Infrastructure Tool
 
-| Tool | Knowldge Level |
+| Product | Knowldge Level |
 |---|---|
 | Ansible |★★★|
 | Terraform |★★|
 | Jenkins |★★★|
 | Selenium WebDriver|★★★|
 
-- RDBMS(DBA)
+### RDBMS(DBA)
 
 | Product | Knowldge Level |
 |---|---|
 | Oracle Database DBA |★★★★|
 
-
-
 ## Education
 ---
-- 東京理科大学理工学研究科 情報科学専攻 March,2012
+- 東京理科大学理工学研究科 情報科学専攻 March,2013
 
 
 ## Certified
@@ -107,22 +106,13 @@ date = "2019-11-08"
 ## Resume
 ---
 ### 野村総合研究所　
-- `2012/04` ~ `現在`
-
-- `社内クラウドにおけるサービスリクエスト対応`
-環境構築の業務を実施。ユーザからの依頼を受け、その要件にそった設計・構築を行う。
-
-- `新サービス用OracleExadataの導入`
-DBaaS(Database as a Servie)サービスを開始するため、OracleExadataの導入・設計・構築をリーダとして担当。
-
-- `クラウド基盤の増強対応`
-クラウド基盤拡大のため、サーバ・ストレージの導入・設計・構築をリーダとして担当。
+- `2013/04` ~ `現在`
 
 ## Achievement
 ---
 
 ## AtCoder Rating
-chittai - 467(茶)
+chittai - 693(茶)
 
 ### LookingGlassハッカソン 
 - `2019/04`
