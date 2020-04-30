@@ -77,7 +77,7 @@ OculusRift/Goを使用したVRコンテンツの開発を独自で実施。趣�
 | Git |★★★|
 | SVN |★★|
 
-### Infrastructure Tool
+### Automation Tool
 
 | Product | Knowldge Level |
 |---|---|
