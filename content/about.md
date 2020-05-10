@@ -1,13 +1,13 @@
 +++
 title = "About FUDA RYOHEI"
-date = "2020-04-30"
+date = "2020-05-10"
 +++
 
 # Biography
 ---
 - 布田　遼平(ふだ　りょうへい)
 - 1988.12.21
-- Infrastructure Engineer
+- インフラエンジニア
 
 野村総合研究所に所属。インフラエンジニアとして社内クラウド基盤を管理。大学ではマルチキャストの研究に従事。
 OculusRift/Goを使用したVRコンテンツの開発を独自で実施。趣味は競技プログラミング。データ分析も勉強中。
@@ -64,13 +64,14 @@ OculusRift/Goを使用したVRコンテンツの開発を独自で実施。趣�
 |---|---|
 | GCP |★★★|
 | AWS |★|
-| OCI |★★★★|
+| OCI |★★★|
 
 ### XR 
 
 | Platform | Knowldge Level |
 |---|---|
 | Oculus Rift/Go |★★★|
+| Looking Glass |★★★|
 
 ### Version Control
 
@@ -114,7 +115,7 @@ OculusRift/Goを使用したVRコンテンツの開発を独自で実施。趣�
 ---
 
 ## AtCoder Rating
-chittai - 693(茶)
+chittai - 709(茶)
 
 ### LookingGlassハッカソン 
 - `2019/04`
