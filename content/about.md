@@ -14,12 +14,14 @@ OculusRift/Goを使用したVRコンテンツの開発を独自で実施。趣�
 
 ## SkillSet
 ---
-### Hypervisor
+### Virtualization Technology
 
 | Product | Knowldge Level |
 |---|---|
 | VMware ESXi |★★★★★|
 | OracleVM | ★★★★ |
+| Docker | ★★ |
+| Kubernetes | ★★ |
 
 ### Storage
 
