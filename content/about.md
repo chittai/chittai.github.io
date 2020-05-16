@@ -13,6 +13,16 @@ date = "2020-05-10"
 OculusRift/Goを使用したVRコンテンツの開発を独自で実施。趣味は競技プログラミング。データ分析も勉強中。
 
 ## SkillSet
+スキルレベルの説明
+
+| Level | Detail |
+|---|---|
+| ★ | いつ、なぜ使うのかを説明できるが実際に触ったことがない |
+| ★★ | 何ができるかを理解し、自ら使用したことがある |
+| ★★★ | 提供されている機能を理解し、実際に各機能を使用したことがある |
+| ★★★★ | 技術の使用について、人にアドバイスをすることができる |
+| ★★★★★ | 設計に対して助言することができる |
+
 ---
 ### Virtualization Technology
 
@@ -20,7 +30,7 @@ OculusRift/Goを使用したVRコンテンツの開発を独自で実施。趣�
 |---|---|
 | VMware ESXi |★★★★★|
 | OracleVM | ★★★★ |
-| Docker | ★★ |
+| Docker | ★★★ |
 | Kubernetes | ★★ |
 
 ### Storage
@@ -42,8 +52,8 @@ OculusRift/Goを使用したVRコンテンツの開発を独自で実施。趣�
 |---|---|
 | C# |★★★|
 | Go |★★|
-| Ruby |★★|
-| JavaScript |★★|
+| Ruby |★★★|
+| JavaScript |★★★|
 
 ### Framework
 
@@ -63,7 +73,7 @@ OculusRift/Goを使用したVRコンテンツの開発を独自で実施。趣�
 | Platform | Knowldge Level |
 |---|---|
 | GCP |★★★|
-| AWS |★|
+| AWS |★★|
 | OCI |★★★|
 
 ### XR 
